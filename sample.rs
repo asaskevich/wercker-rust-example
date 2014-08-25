@@ -5,5 +5,5 @@ fn return_two() -> int {
 #[test]
 fn return_two_test() {
     let x = return_two();
-    assert!(x == 2);
+    assert!(x == 3);
 }
